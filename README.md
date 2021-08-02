@@ -1,10 +1,23 @@
-- 👋 Opa, eu sou o R_O_C_H_A_
-- 👀 Sou interessado em interesses
-- 🌱 Atualmente estou aprendendo Js, CCS e HTML e a fazer mapas entre outras coisas para FiveM
-- 💞️ Quero colaborar com oq eu puder e tiver dentro do meu alcance
-- 📫 Para falar comigo é só me chamar no discord ``R   O   C  H   A#1736``
-
-<!---
-r0c4a/r0c4a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Opa! Eu sou o Marcos Rocha
+ <div>
+  <a href="https://github.com/r0c4a">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r0c4a&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0c4a&layout=compact&langs_count=16&theme=blue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0c4a&layout=compact&langs_count=7&theme=blue"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="ROCHA-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+  <img align="center" alt="ROCHA-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="ROCHA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ROCHA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ROCHA-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/m.a.r.c.o.s.r.fk"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/qH4Yee4xXT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:m.rocha3121@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/profiles/76561199005093817/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+</div>
